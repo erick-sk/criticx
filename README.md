@@ -1,24 +1,8 @@
-# README
+# CRITICX
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Web application for game reviews.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
+* Ruby version 2.7.0
+  Bundler version 2.1.2
 * Deployment instructions
-
-* ...
+  ruby server
